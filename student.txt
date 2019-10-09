@@ -1,0 +1,6 @@
+Ali hassan;123;ali@uet.edu.pk;ali3443;ee;2;not paid;
+saleem ali;231;saleem@uet;uetpass;civ;2;paid;453!
+sohail amaan;122;sohail@uet;soh;me;1;paid;576!453!
+usman aziz;163;usman@me;med;me;3;not paid;
+usama ayub;124;usama@uet;uetpass;ee;1;paid;123!132!341!
+Usama Ayub;123;usama@eedpt;pass;ee;1;not paid;231!243!
